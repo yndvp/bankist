@@ -10,4 +10,4 @@ Bank account management system that has functionalities of logging in, transferi
 - DOM API
 
 ## Flowchart
-![](logo.png)
+![](Bankist-flowchart.png)
