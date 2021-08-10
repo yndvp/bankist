@@ -62,7 +62,7 @@ const inputCloseUsername = document.querySelector('.form__input--user');
 const inputClosePin = document.querySelector('.form__input--pin');
 
 // Information for logging in
-alert(`Choose one of these accounts info to log in
+alert(`Use one of these accounts info to log in
 
 ID: js / PW: 1111
 ID: jd / PW: 2222
