@@ -61,6 +61,15 @@ const inputLoanAmount = document.querySelector('.form__input--loan-amount');
 const inputCloseUsername = document.querySelector('.form__input--user');
 const inputClosePin = document.querySelector('.form__input--pin');
 
+// Information for logging in
+alert(`Choose one of these accounts info to log in
+
+ID: js / PW: 1111
+ID: jd / PW: 2222
+ID: stw / PW: 3333
+ID: ss / PW: 4444
+`);
+
 // Display movements
 const displayMovements = function (movements, sort = false) {
   containerMovements.innerHTML = '';
